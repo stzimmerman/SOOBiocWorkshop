@@ -32,7 +32,7 @@ Suggests:
     knitr,
     viridis,
     cowplot
-URL: https://https://nanostring-biostats.github.io/SOOBiocWorkshop/
+URL: https://stzimmerman.github.io/SOOBiocWorkshop2/
 BugReports: https://github.com/nanostring-biostats/SOOBiocWorkshop/issues/new/choose
 VignetteBuilder: knitr
 DockerImage: https://ghcr.io/nanostring-biostats/soobiocworkshop:latest
